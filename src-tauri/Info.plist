@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <!-- Shown once by macOS when Dot Player first asks Spotify / Music what's playing. -->
+  <key>NSAppleEventsUsageDescription</key>
+  <string>Dot Player asks Spotify and Music what's playing so it can show the track and its play/skip buttons.</string>
+</dict>
+</plist>
